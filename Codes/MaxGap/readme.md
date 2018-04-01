@@ -3,6 +3,8 @@
 
 算法实现题1-5 P10
 
+![题目](https://github.com/GaofengDong/Computer-Algorithms/raw/master/Codes/MaxGap/suanfa1_5.png)
+
 给定 n 个实数，求这n个实数在数轴上相邻2个数之间的最大差值，设计求解最大间隙问题的线性时间算法。
 
 参考：https://blog.csdn.net/legend050709/article/details/38986157
