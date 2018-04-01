@@ -1,6 +1,11 @@
 
-// maxgap.cpp : 定义控制台应用程序的入口点。
-//
+/*
+ * Copyright (C) 2018 GaofengDong @USTC
+ * 
+ * My homepage: https://github.com/GaofengDong
+ *
+ * Have fun!!!
+ */
 
 #include "stdafx.h"
 #include "float.h"
