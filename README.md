@@ -2,8 +2,8 @@
 
 算法设计与分析课程
 
-<div align=center><img width="250" height="200" src="https://github.com/GaofengDong/Computer-Algorithms/blob/master/algo.png"/></div>
- 
-<img src="https://github.com/GaofengDong/Computer-Algorithms/blob/master/algo.png" width = "300" height = "200" alt="图片名称" align=center />
+课程主页见[链接](http://vim.ustc.edu.cn/?product=algorithm)
 
-![算法](https://github.com/GaofengDong/Computer-Algorithms/blob/master/algo.png)
+<div align=center><img width="250" height="200" src="https://github.com/GaofengDong/Computer-Algorithms/raw/master/algo.png"/></div>
+ 
+ 
