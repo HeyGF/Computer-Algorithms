@@ -16,7 +16,7 @@
 
 2. 将[min,max]区间分为n-1份区域/桶，则每一个区域/桶的大小为len=(max-min)/(n-1);
 
-    区间分别为：[min,min+len),[min+len,min+2* len),[min+2* len,min+3* len),...[max-len,max].
+    区间分别为：[min,min+len),[min+len,min+2\*len),[min+2\*len,min+3\*len),...[max-len,max].
     
 
 3. 由于是将n-2个数放入n-1个区间，因此至少有一个区间为空。这意味着，最大间隙至少要涉及到两个区间
