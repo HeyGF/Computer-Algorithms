@@ -88,6 +88,8 @@ int _tmain(int argc, _TCHAR* argv[])
 {
 	int count;
 	double *num;
+	
+	//从文件中读取数据 第一行数字的个数n 第二行n个空格隔开的实数
 	FILE *fp = fopen("input.txt", "r");
 	if (fp == NULL)
 	{
